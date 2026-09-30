@@ -1,0 +1,10 @@
+*.pem
+*.key
+.env
+.aws/
+credentials
+venv/
+__pycache__/
+*.pyc
+.idea/
+nohup.out
